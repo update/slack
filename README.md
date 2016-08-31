@@ -1,4 +1,4 @@
-# slack [![NPM version](https://badge.fury.io/js/slack.svg)](https://npmjs.org/package/slack) [![Build Status](https://travis-ci.org/udpate/slack.svg?branch=master)](https://travis-ci.org/udpate/slack)
+# slack [![NPM version](https://badge.fury.io/js/slack.svg)](https://npmjs.org/package/slack) [![Build Status](https://travis-ci.org/update/slack.svg?branch=master)](https://travis-ci.org/update/slack)
 
 > Slack landing page to provide an invitation form for the update slack community.
 
